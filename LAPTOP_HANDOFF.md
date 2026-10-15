@@ -3,7 +3,7 @@
 Your work lives on your fork: https://github.com/vinayak1998/agents  
 Course updates come from **upstream**: https://github.com/ed-donner/agents  
 
-> **Privacy note:** The fork is **public**. Making a fork of a public course repo private disables it on free GitHub accounts. `1_foundations/twin/` includes personal files (resume / LinkedIn PDF). If that is a concern, remove those files from git history before sharing the URL, or copy them only via a separate private repo / cloud drive.
+> **Privacy note:** Keep this fork **public**. Changing a public fork to private can disable it (and may detach the “forked from” link). `1_foundations/twin/` includes personal files (resume / LinkedIn PDF). If that is a concern, remove those files from git, or keep copies only in a separate private repo / cloud drive.
 
 | Remote    | URL                                      | Role                          |
 |-----------|------------------------------------------|-------------------------------|
