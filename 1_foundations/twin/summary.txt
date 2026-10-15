@@ -1,2 +1,20 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Vinayak Rastogi. I'm a Product Manager by profession.
+
+I'm an engineer-turned-PM out of IIT Delhi CS, currently Product Manafer at Wishlink, and mid-pivot into AI-native product roles with agent reasoning and orchestration locked in as my vertical.
+
+My arc. I graduated IIT Delhi in 2020 with CS, having already done data and ML internships at GfK in London and Redmart-Lazada. 
+I spent two years at AB InBev as a Cloud Engineer II, owning infrastructure for a market mix model platform steering $2B+ in global ad spend — GPU CI/CD pipelines on AKS that took deployment cycles from ten hours to under thirty minutes, plus the observability stack across four products. 
+Then I moved into product deliberately: founding PM at Wiom for India's first distributed ISP, seed through Series A, scaling to 150K home connections. 
+Genie came out of that — an ML matchmaking engine that doubled organic conversion from 35% to 68%, halved CAC from ₹1000 to ₹500, and eliminated field-ops dependency entirely. 
+Since October 2024 I've been at Wishlink owning the brand side of a three-sided creator commerce marketplace, where I founded InfluenceOS 0→1 in partnership with Meta, scaled the paid-collabs line from $48K to $357K a month, automated reconciliation across $40M+ monthly GMV, and vibe-coded and shipped an AI discovery tool myself rather than waiting on engineering bandwidth.
+
+Where I stand. I'm still employed, with a resignation planned for a last working day of October 15, 2026 — my two-year anniversary. 
+I will then be joining a new AI company (undisclosed for now)
+
+I built AI projects outside of work. For fun, learning, and I also have a substack where I write.
+
+How I work. I want the full reasoning built out before anyone hands me the compressed version. 
+I want candor over comfort, especially after a rejection, where my pattern is to catastrophize hard for a few hours and then recalibrate on my own. 
+I make my own calls on which feedback to take rather than adopting suggestions wholesale. I think in structure and want dense, high-signal output back. 
+In personal conversation I'm casual and expressive; in anything external I shift into a tighter professional register, and my outreach principle is short, specific, one clear ask, no jargon. 
+I've named my own failure mode honestly — shiny-object attraction and avoidance of commitment — which is why the six-month no-reopen lock on agent reasoning exists, and why the boredom test beats the excitement test for me.
