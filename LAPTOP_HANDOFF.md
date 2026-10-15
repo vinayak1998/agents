@@ -1,7 +1,9 @@
 # Laptop handoff — Agents course repo
 
-Your work lives on a **private fork**: https://github.com/vinayak1998/agents  
+Your work lives on your fork: https://github.com/vinayak1998/agents  
 Course updates come from **upstream**: https://github.com/ed-donner/agents  
+
+> **Privacy note:** The fork is **public**. Making a fork of a public course repo private disables it on free GitHub accounts. `1_foundations/twin/` includes personal files (resume / LinkedIn PDF). If that is a concern, remove those files from git history before sharing the URL, or copy them only via a separate private repo / cloud drive.
 
 | Remote    | URL                                      | Role                          |
 |-----------|------------------------------------------|-------------------------------|
@@ -142,6 +144,6 @@ Prefer **merge** unless you know you want rebase.
 
 ## 5. Notes
 
-- The fork is **private** because `1_foundations/twin/` includes personal files (e.g. resume PDF).
+- The fork stays **public** (required for forks of public course repos on free GitHub). Treat twin PDFs as public unless you remove them.
 - Do **not** open a PR of `my-progress` into `ed-donner/agents` unless you intentionally want to contribute back (and strip personal files first).
 - On the old laptop, after migration you can delete the local clone; the source of truth is the fork on GitHub.
